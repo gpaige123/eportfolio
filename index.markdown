@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Home
+title: About Me
+permalink: /index.html
 ---
+
 
 <section id="about">
     <h2>About Me</h2>
